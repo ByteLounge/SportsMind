@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="kkrTitle kkrDesc">
+  <title id="kkrTitle">Kolkata Knight Riders</title>
+  <desc id="kkrDesc">Kolkata Knight Riders team badge.</desc>
+  <defs>
+    <linearGradient id="kkrGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f3388" />
+      <stop offset="100%" stop-color="#231439" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="20" fill="url(#kkrGrad)" />
+  <circle cx="64" cy="64" r="42" fill="none" stroke="#ffffff" stroke-opacity="0.24" stroke-width="3" />
+  <text x="64" y="72" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="900" text-anchor="middle">KKR</text>
+</svg>

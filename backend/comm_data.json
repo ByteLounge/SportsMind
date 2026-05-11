@@ -1,0 +1,1312 @@
+{
+  "matchId": 152097,
+  "commentary": [
+    {
+      "inningsId": 0,
+      "commentaryList": [
+        {
+          "commText": "Batting may not be straightforward because of the cracks. Bhuvi will look to hit the edge of those cracks and generate extra movement. Very interesting PP in on the cards.",
+          "timestamp": 1778421585868,
+          "ballNbr": 0,
+          "event": "NONE",
+          "batTeamName": "",
+          "commentaryFormats": {},
+          "batsmanStriker": {
+            "batBalls": 0,
+            "batDots": 0,
+            "batFours": 0,
+            "batId": 0,
+            "batName": "",
+            "batMins": 0,
+            "batRuns": 0,
+            "batStrikeRate": 0
+          },
+          "bowlerStriker": {
+            "bowlId": 0,
+            "bowlName": "",
+            "bowlMaidens": 0,
+            "bowlNoballs": 0,
+            "bowlOvs": 0,
+            "bowlRuns": 0,
+            "bowlWides": 0,
+            "bowlWkts": 0
+          },
+          "legalRuns": 0,
+          "totalRuns": 0,
+          "batTeamScore": 0
+        },
+        {
+          "commText": "Right then, umpires make their way out to the center.",
+          "timestamp": 1778421511420,
+          "ballNbr": 0,
+          "event": "NONE",
+          "batTeamName": "",
+          "commentaryFormats": {},
+          "batsmanStriker": {
+            "batBalls": 0,
+            "batDots": 0,
+            "batFours": 0,
+            "batId": 0,
+            "batName": "",
+            "batMins": 0,
+            "batRuns": 0,
+            "batStrikeRate": 0
+          },
+          "bowlerStriker": {
+            "bowlId": 0,
+            "bowlName": "",
+            "bowlMaidens": 0,
+            "bowlNoballs": 0,
+            "bowlOvs": 0,
+            "bowlRuns": 0,
+            "bowlWides": 0,
+            "bowlWkts": 0
+          },
+          "legalRuns": 0,
+          "totalRuns": 0,
+          "batTeamScore": 0
+        },
+        {
+          "commText": "$27",
+          "timestamp": 1778420434231,
+          "ballNbr": 0,
+          "event": "NONE",
+          "batTeamName": "",
+          "commentaryFormats": {
+            "bold": {
+              "formatId": [
+                "B0$"
+              ],
+              "formatValue": [
+                "Tim David:"
+              ]
+            }
+          },
+          "batsmanStriker": {
+            "batBalls": 0,
+            "batFours": 0,
+            "batId": 0,
+            "batName": "",
+            "batRuns": 0,
+            "batSixes": 0,
+            "batStrikeRate": 0
+          },
+          "bowlerStriker": {
+            "bowlId": 0,
+            "bowlName": "",
+            "bowlMaidens": 0,
+            "bowlNoballs": 0,
+            "bowlOvs": 0,
+            "bowlRuns": 0,
+            "bowlWides": 0,
+            "bowlWkts": 0,
+            "bowlEcon": 0
+          },
+          "totalRuns": 0,
+          "batTeamScore": 0
+        },
+        {
+          "commText": "B0$",
+          "timestamp": 1778420434221,
+          "ballNbr": 0,
+          "event": "NONE",
+          "batTeamName": "",
+          "commentaryFormats": {
+            "bold": {
+              "formatId": [
+                "B0$"
+              ],
+              "formatValue": [
+                "Here are the Impact substitutes for both the teams:"
+              ]
+            }
+          },
+          "batsmanStriker": {
+            "batBalls": 0,
+            "batDots": 0,
+            "batFours": 0,
+            "batId": 0,
+            "batName": "",
+            "batMins": 0,
+            "batRuns": 0,
+            "batStrikeRate": 0
+          },
+          "bowlerStriker": {
+            "bowlId": 0,
+            "bowlName": "",
+            "bowlMaidens": 0,
+            "bowlNoballs": 0,
+            "bowlOvs": 0,
+            "bowlRuns": 0,
+            "bowlWides": 0,
+            "bowlWkts": 0
+          },
+          "legalRuns": 0,
+          "totalRuns": 0,
+          "batTeamScore": 0
+        },
+        {
+          "commText": "B0$ Trent Boult, Raghu Sharma, Mayank Rawat, Robin Minz, Shardul Thakur",
+          "timestamp": 1778420407141,
+          "ballNbr": 0,
+          "event": "NONE",
+          "batTeamName": "",
+          "commentaryFormats": {
+            "bold": {
+              "formatId": [
+                "B0$"
+              ],
+              "formatValue": [
+                "Mumbai Indians Impact Subs:"
+              ]
+            }
+          },
+          "batsmanStriker": {
+            "batBalls": 0,
+            "batDots": 0,
+            "batFours": 0,
+            "batId": 0,
+            "batName": "",
+            "batMins": 0,
+            "batRuns": 0,
+            "batStrikeRate": 0
+          },
+          "bowlerStriker": {
+            "bowlId": 0,
+            "bowlName": "",
+            "bowlMaidens": 0,
+            "bowlNoballs": 0,
+            "bowlOvs": 0,
+            "bowlRuns": 0,
+            "bowlWides": 0,
+            "bowlWkts": 0
+          },
+          "legalRuns": 0,
+          "totalRuns": 0,
+          "batTeamScore": 0
+        },
+        {
+          "commText": "B0$Devdutt Padikkal, Jordan Cox, Mangesh Yadav, Swapnil Singh, Venkatesh Iyer",
+          "timestamp": 1778420337380,
+          "ballNbr": 0,
+          "event": "NONE",
+          "batTeamName": "",
+          "commentaryFormats": {
+            "bold": {
+              "formatId": [
+                "B0$"
+              ],
+              "formatValue": [
+                "Royal Challengers Bengaluru Impact Subs: "
+              ]
+            }
+          },
+          "batsmanStriker": {
+            "batBalls": 0,
+            "batDots": 0,
+            "batFours": 0,
+            "batId": 0,
+            "batName": "",
+            "batMins": 0,
+            "batRuns": 0,
+            "batStrikeRate": 0
+          },
+          "bowlerStriker": {
+            "bowlId": 0,
+            "bowlName": "",
+            "bowlMaidens": 0,
+            "bowlNoballs": 0,
+            "bowlOvs": 0,
+            "bowlRuns": 0,
+            "bowlWides": 0,
+            "bowlWkts": 0
+          },
+          "legalRuns": 0,
+          "totalRuns": 0,
+          "batTeamScore": 0
+        },
+        {
+          "commText": "B0$",
+          "timestamp": 1778420217923,
+          "ballNbr": 0,
+          "event": "NONE",
+          "batTeamName": "",
+          "commentaryFormats": {
+            "bold": {
+              "formatId": [
+                "B0$"
+              ],
+              "formatValue": [
+                "Teams:"
+              ]
+            }
+          },
+          "batsmanStriker": {
+            "batBalls": 0,
+            "batDots": 0,
+            "batFours": 0,
+            "batId": 0,
+            "batName": "",
+            "batMins": 0,
+            "batRuns": 0,
+            "batStrikeRate": 0
+          },
+          "bowlerStriker": {
+            "bowlId": 0,
+            "bowlName": "",
+            "bowlMaidens": 0,
+            "bowlNoballs": 0,
+            "bowlOvs": 0,
+            "bowlRuns": 0,
+            "bowlWides": 0,
+            "bowlWkts": 0
+          },
+          "legalRuns": 0,
+          "totalRuns": 0,
+          "batTeamScore": 0
+        },
+        {
+          "commText": "B0$ (Playing XI): Rohit Sharma, Ryan Rickelton(w), Naman Dhir, Suryakumar Yadav(c), Tilak Varma, Will Jacks, Raj Bawa, Corbin Bosch, Deepak Chahar, Jasprit Bumrah, AM Ghazanfar",
+          "timestamp": 1778420214068,
+          "ballNbr": 0,
+          "event": "NONE",
+          "batTeamName": "",
+          "commentaryFormats": {
+            "bold": {
+              "formatId": [
+                "B0$"
+              ],
+              "formatValue": [
+                "Mumbai Indians"
+              ]
+            }
+          },
+          "batsmanStriker": {
+            "batBalls": 0,
+            "batDots": 0,
+            "batFours": 0,
+            "batId": 0,
+            "batName": "",
+            "batMins": 0,
+            "batRuns": 0,
+            "batStrikeRate": 0
+          },
+          "bowlerStriker": {
+            "bowlId": 0,
+            "bowlName": "",
+            "bowlMaidens": 0,
+            "bowlNoballs": 0,
+            "bowlOvs": 0,
+            "bowlRuns": 0,
+            "bowlWides": 0,
+            "bowlWkts": 0
+          },
+          "legalRuns": 0,
+          "totalRuns": 0,
+          "batTeamScore": 0
+        },
+        {
+          "commText": "B0$ (Playing XI): Virat Kohli, Jacob Bethell, Rajat Patidar(c), Jitesh Sharma(w), Tim David, Romario Shepherd, Krunal Pandya, Bhuvneshwar Kumar, Josh Hazlewood, Suyash Sharma, Rasikh Salam Dar",
+          "timestamp": 1778420187411,
+          "ballNbr": 0,
+          "event": "NONE",
+          "batTeamName": "",
+          "commentaryFormats": {
+            "bold": {
+              "formatId": [
+                "B0$"
+              ],
+              "formatValue": [
+                "Royal Challengers Bengaluru"
+              ]
+            }
+          },
+          "batsmanStriker": {
+            "batBalls": 0,
+            "batDots": 0,
+            "batFours": 0,
+            "batId": 0,
+            "batName": "",
+            "batMins": 0,
+            "batRuns": 0,
+            "batStrikeRate": 0
+          },
+          "bowlerStriker": {
+            "bowlId": 0,
+            "bowlName": "",
+            "bowlMaidens": 0,
+            "bowlNoballs": 0,
+            "bowlOvs": 0,
+            "bowlRuns": 0,
+            "bowlWides": 0,
+            "bowlWkts": 0
+          },
+          "legalRuns": 0,
+          "totalRuns": 0,
+          "batTeamScore": 0
+        },
+        {
+          "commText": "B0$ No, we are pretty confident. I think we are happy to bat first. Big ground, black soil wicket, I think runs on board, always good pressure for the other team. (Any changes) Not really, we are going with the same team. (MI haven't strung two wins together. What is going to be important to do that?) I think it's all history now what has happened before. We are really looking forward to this game, big game, Super Sunday. Trying to put our best foot forward and have good entertainment for Raipur. (Discussions on their bowling) I think we've always had a good chat around that. I think this tournament, this IPL has been a little difficult and a little harsh on the bowlers. But that's the beauty of T20 cricket. The way you come back, I think that shows a lot of character. So we keep trying to improve and get better each day.",
+          "timestamp": 1778420006373,
+          "ballNbr": 0,
+          "event": "NONE",
+          "batTeamName": "",
+          "commentaryFormats": {
+            "bold": {
+              "formatId": [
+                "B0$"
+              ],
+              "formatValue": [
+                "Suryakumar Yadav | MI captain:"
+              ]
+            }
+          },
+          "batsmanStriker": {
+            "batBalls": 0,
+            "batDots": 0,
+            "batFours": 0,
+            "batId": 0,
+            "batName": "",
+            "batMins": 0,
+            "batRuns": 0,
+            "batStrikeRate": 0
+          },
+          "bowlerStriker": {
+            "bowlId": 0,
+            "bowlName": "",
+            "bowlMaidens": 0,
+            "bowlNoballs": 0,
+            "bowlOvs": 0,
+            "bowlRuns": 0,
+            "bowlWides": 0,
+            "bowlWkts": 0
+          },
+          "legalRuns": 0,
+          "totalRuns": 0,
+          "batTeamScore": 0
+        },
+        {
+          "commText": "B0$ We will bowl first. Pretty obvious, surface is good and pretty hard. But we will try to get them as early as possible and go for the chase. Conditions are not unfamiliar to be honest. It's a new stadium, good supporters and great outfield I would say and everyone is looking forward to the game. We are going with the same team. Yes we had a couple of losses but it's important to be in the present and play on your strengths. So we will be focusing more on ourselves rather than other teams. (Areas to be better at today) I don't think that there are one or two particular areas. Wherever it is. If we play in the powerplay or if we play after the powerplay we will look to do whatever best we can do.",
+          "timestamp": 1778419927978,
+          "ballNbr": 0,
+          "event": "NONE",
+          "batTeamName": "",
+          "commentaryFormats": {
+            "bold": {
+              "formatId": [
+                "B0$"
+              ],
+              "formatValue": [
+                "Rajat Patidar | RCB captain:"
+              ]
+            }
+          },
+          "batsmanStriker": {
+            "batBalls": 0,
+            "batDots": 0,
+            "batFours": 0,
+            "batId": 0,
+            "batName": "",
+            "batMins": 0,
+            "batRuns": 0,
+            "batStrikeRate": 0
+          },
+          "bowlerStriker": {
+            "bowlId": 0,
+            "bowlName": "",
+            "bowlMaidens": 0,
+            "bowlNoballs": 0,
+            "bowlOvs": 0,
+            "bowlRuns": 0,
+            "bowlWides": 0,
+            "bowlWkts": 0
+          },
+          "legalRuns": 0,
+          "totalRuns": 0,
+          "batTeamScore": 0
+        },
+        {
+          "commText": "B0$",
+          "timestamp": 1778419877705,
+          "ballNbr": 0,
+          "event": "NONE",
+          "batTeamName": "",
+          "commentaryFormats": {
+            "bold": {
+              "formatId": [
+                "B0$"
+              ],
+              "formatValue": [
+                "Royal Challengers Bengaluru have won the toss and have opted to field"
+              ]
+            }
+          },
+          "batsmanStriker": {
+            "batBalls": 0,
+            "batDots": 0,
+            "batFours": 0,
+            "batId": 0,
+            "batName": "",
+            "batMins": 0,
+            "batRuns": 0,
+            "batStrikeRate": 0
+          },
+          "bowlerStriker": {
+            "bowlId": 0,
+            "bowlName": "",
+            "bowlMaidens": 0,
+            "bowlNoballs": 0,
+            "bowlOvs": 0,
+            "bowlRuns": 0,
+            "bowlWides": 0,
+            "bowlWkts": 0
+          },
+          "legalRuns": 0,
+          "totalRuns": 0,
+          "batTeamScore": 0
+        },
+        {
+          "commText": "SKY is tying his laces and walking out for the toss, so looks like no Hardik as of now.",
+          "timestamp": 1778419827431,
+          "ballNbr": 0,
+          "event": "NONE",
+          "batTeamName": "",
+          "commentaryFormats": {},
+          "batsmanStriker": {
+            "batBalls": 0,
+            "batDots": 0,
+            "batFours": 0,
+            "batId": 0,
+            "batName": "",
+            "batMins": 0,
+            "batRuns": 0,
+            "batStrikeRate": 0
+          },
+          "bowlerStriker": {
+            "bowlId": 0,
+            "bowlName": "",
+            "bowlMaidens": 0,
+            "bowlNoballs": 0,
+            "bowlOvs": 0,
+            "bowlRuns": 0,
+            "bowlWides": 0,
+            "bowlWkts": 0
+          },
+          "legalRuns": 0,
+          "totalRuns": 0,
+          "batTeamScore": 0
+        },
+        {
+          "commText": "$28",
+          "timestamp": 1778419422519,
+          "ballNbr": 0,
+          "event": "NONE",
+          "batTeamName": "",
+          "commentaryFormats": {
+            "bold": {
+              "formatId": [
+                "B0$"
+              ],
+              "formatValue": [
+                "Pitch report | Graeme Swann & Aaron Finch:"
+              ]
+            }
+          },
+          "batsmanStriker": {
+            "batBalls": 0,
+            "batDots": 0,
+            "batFours": 0,
+            "batId": 0,
+            "batName": "",
+            "batMins": 0,
+            "batRuns": 0,
+            "batStrikeRate": 0
+          },
+          "bowlerStriker": {
+            "bowlId": 0,
+            "bowlName": "",
+            "bowlMaidens": 0,
+            "bowlNoballs": 0,
+            "bowlOvs": 0,
+            "bowlRuns": 0,
+            "bowlWides": 0,
+            "bowlWkts": 0
+          },
+          "legalRuns": 0,
+          "totalRuns": 0,
+          "batTeamScore": 0
+        },
+        {
+          "commText": "On the other hand, MI are in a much more desperate situation sitting 9th on the table. This is a must-win game for them to stay relevant in the tournament. MI’s biggest hope is the opening duo of Rohit Sharma and Ryan Rickelton as their middle order (Suryakumar Yadav and Hardik Pandya) have struggled for consistency. There were many rumors that Suryakumar Yadav might miss this match because he recently went home for the birth of his daughter. However, latest reports confirm he is flying into Raipur just hours before the game and will be available to play. His return is a huge boost for MI, especially since captain Hardik Pandya is still being checked for a back injury. History is on MI's side with a 19-16 lead in head-to-head matches, but RCB have won most of their recent meetings. All eyes will be on Virat Kohli, who needs just 28 more runs to reach 1,000 career runs against Mumbai. Stay tuned for toss and team updates in a bit.",
+          "timestamp": 1778417587202,
+          "ballNbr": 0,
+          "event": "NONE",
+          "batTeamName": "",
+          "commentaryFormats": {},
+          "batsmanStriker": {
+            "batBalls": 0,
+            "batDots": 0,
+            "batFours": 0,
+            "batId": 0,
+            "batName": "",
+            "batMins": 0,
+            "batRuns": 0,
+            "batStrikeRate": 0
+          },
+          "bowlerStriker": {
+            "bowlId": 0,
+            "bowlName": "",
+            "bowlMaidens": 0,
+            "bowlNoballs": 0,
+            "bowlOvs": 0,
+            "bowlRuns": 0,
+            "bowlWides": 0,
+            "bowlWkts": 0
+          },
+          "legalRuns": 0,
+          "totalRuns": 0,
+          "batTeamScore": 0
+        },
+        {
+          "commText": "B0$ Royal Challengers Bengaluru come into this match at a tricky time. After recent losses to GT and LSG, they have dropped to 4th place on the points table. While they are still in the hunt for the playoffs, their lead is shrinking. Team missed Phil Salt due to a finger injury (who is reportedly fit for today's game) and fast bowler Josh Hazlewood has struggled lately, giving away too many runs. Playing in Raipur adds another challenge because RCB could practice only for an hour at the venue due to rain. They need to win today to stay in the top four and stop their recent slide.",
+          "timestamp": 1778417154426,
+          "ballNbr": 0,
+          "event": "NONE",
+          "batTeamName": "",
+          "commentaryFormats": {
+            "bold": {
+              "formatId": [
+                "B0$"
+              ],
+              "formatValue": [
+                "18:15 Local Time, 12:45 GMT, 18:15 IST:"
+              ]
+            }
+          },
+          "batsmanStriker": {
+            "batBalls": 0,
+            "batDots": 0,
+            "batFours": 0,
+            "batId": 0,
+            "batName": "",
+            "batMins": 0,
+            "batRuns": 0,
+            "batStrikeRate": 0
+          },
+          "bowlerStriker": {
+            "bowlId": 0,
+            "bowlName": "",
+            "bowlMaidens": 0,
+            "bowlNoballs": 0,
+            "bowlOvs": 0,
+            "bowlRuns": 0,
+            "bowlWides": 0,
+            "bowlWkts": 0
+          },
+          "legalRuns": 0,
+          "totalRuns": 0,
+          "batTeamScore": 0
+        },
+        {
+          "commText": "$29",
+          "timestamp": 1778338048773,
+          "ballNbr": 0,
+          "event": "NONE",
+          "batTeamName": "",
+          "commentaryFormats": {
+            "bold": {
+              "formatId": [
+                "B0$",
+                "B1$",
+                "B2$",
+                "B3$",
+                "B4$",
+                "B5$",
+                "B6$",
+                "B7$",
+                "B8$",
+                "B9$",
+                "B10$",
+                "B11$",
+                "B12$",
+                "B13$",
+                "B14$",
+                "B15$",
+                "B16$",
+                "B17$"
+              ],
+              "formatValue": [
+                "Preview",
+                "Gokul Gopal",
+                "When:",
+                "Where:",
+                "What to expect:",
+                "Head to head:",
+                "Teams watch:",
+                "Royal Challengers Bengaluru",
+                "Injury/unavailability:",
+                "Tactics & Matchups:",
+                "Probable XII:",
+                "Mumbai Indians",
+                "Injury/unavailability:",
+                "Tactics & Matchups:",
+                "Probable XII:",
+                "Did you know?",
+                "What they said:",
+                "- Sherfane Rutherford."
+              ]
+            }
+          },
+          "batsmanStriker": {
+            "batBalls": 0,
+            "batFours": 0,
+            "batId": 0,
+            "batName": "",
+            "batRuns": 0,
+            "batSixes": 0,
+            "batStrikeRate": 0
+          },
+          "bowlerStriker": {
+            "bowlId": 0,
+            "bowlName": "",
+            "bowlMaidens": 0,
+            "bowlNoballs": 0,
+            "bowlOvs": 0,
+            "bowlRuns": 0,
+            "bowlWides": 0,
+            "bowlWkts": 0,
+            "bowlEcon": 0
+          },
+          "totalRuns": 0,
+          "batTeamScore": 0
+        },
+        {
+          "commText": "B0$",
+          "timestamp": 1778338048763,
+          "ballNbr": 0,
+          "event": "NONE",
+          "batTeamName": "",
+          "commentaryFormats": {
+            "bold": {
+              "formatId": [
+                "B0$"
+              ],
+              "formatValue": [
+                "Squads:"
+              ]
+            }
+          },
+          "batsmanStriker": {
+            "batBalls": 0,
+            "batDots": 0,
+            "batFours": 0,
+            "batId": 0,
+            "batName": "",
+            "batMins": 0,
+            "batRuns": 0,
+            "batStrikeRate": 0
+          },
+          "bowlerStriker": {
+            "bowlId": 0,
+            "bowlName": "",
+            "bowlMaidens": 0,
+            "bowlNoballs": 0,
+            "bowlOvs": 0,
+            "bowlRuns": 0,
+            "bowlWides": 0,
+            "bowlWkts": 0
+          },
+          "legalRuns": 0,
+          "totalRuns": 0,
+          "batTeamScore": 0
+        },
+        {
+          "commText": "B0$ Squad: Ryan Rickelton(w), Rohit Sharma, Tilak Varma, Suryakumar Yadav(c), Naman Dhir, Will Jacks, Raj Bawa, Corbin Bosch, Deepak Chahar, Jasprit Bumrah, AM Ghazanfar, Raghu Sharma, Mayank Rawat, Robin Minz, Shardul Thakur, Trent Boult, Ashwani Kumar, Quinton de Kock, Keshav Maharaj, Sherfane Rutherford, Mayank Markande, Danish Malewar, Mohammed Salahuddin Izhar, Hardik Pandya, Krish Bhagat",
+          "timestamp": 1778338044678,
+          "ballNbr": 0,
+          "event": "NONE",
+          "batTeamName": "",
+          "commentaryFormats": {
+            "bold": {
+              "formatId": [
+                "B0$"
+              ],
+              "formatValue": [
+                "Mumbai Indians"
+              ]
+            }
+          },
+          "batsmanStriker": {
+            "batBalls": 0,
+            "batDots": 0,
+            "batFours": 0,
+            "batId": 0,
+            "batName": "",
+            "batMins": 0,
+            "batRuns": 0,
+            "batStrikeRate": 0
+          },
+          "bowlerStriker": {
+            "bowlId": 0,
+            "bowlName": "",
+            "bowlMaidens": 0,
+            "bowlNoballs": 0,
+            "bowlOvs": 0,
+            "bowlRuns": 0,
+            "bowlWides": 0,
+            "bowlWkts": 0
+          },
+          "legalRuns": 0,
+          "totalRuns": 0,
+          "batTeamScore": 0
+        },
+        {
+          "commText": "B0$ Squad: Jacob Bethell, Virat Kohli, Devdutt Padikkal, Rajat Patidar(c), Jitesh Sharma(w), Tim David, Krunal Pandya, Romario Shepherd, Bhuvneshwar Kumar, Suyash Sharma, Rasikh Salam Dar, Josh Hazlewood, Jordan Cox, Mangesh Yadav, Vicky Ostwal, Venkatesh Iyer, Jacob Duffy, Swapnil Singh, Philip Salt, Nuwan Thushara, Vihaan Malhotra, Abhinandan Singh, Kanishk Chouhan, Satvik Deswal",
+          "timestamp": 1778337833800,
+          "ballNbr": 0,
+          "event": "NONE",
+          "batTeamName": "",
+          "commentaryFormats": {
+            "bold": {
+              "formatId": [
+                "B0$"
+              ],
+              "formatValue": [
+                "Royal Challengers Bengaluru"
+              ]
+            }
+          },
+          "batsmanStriker": {
+            "batBalls": 0,
+            "batDots": 0,
+            "batFours": 0,
+            "batId": 0,
+            "batName": "",
+            "batMins": 0,
+            "batRuns": 0,
+            "batStrikeRate": 0
+          },
+          "bowlerStriker": {
+            "bowlId": 0,
+            "bowlName": "",
+            "bowlMaidens": 0,
+            "bowlNoballs": 0,
+            "bowlOvs": 0,
+            "bowlRuns": 0,
+            "bowlWides": 0,
+            "bowlWkts": 0
+          },
+          "legalRuns": 0,
+          "totalRuns": 0,
+          "batTeamScore": 0
+        }
+      ]
+    }
+  ],
+  "commentarySnippetList": {
+    "0": [
+      {
+        "commId": 153753,
+        "matchId": 152097,
+        "inningsId": 0,
+        "infraType": "Content Promotion - Video",
+        "headline": "CSK vs LSG, RCB vs MI | IPL 2026",
+        "imageId": 964194,
+        "itemId": "185725",
+        "timestamp": 1778420217934,
+        "parsedContent": [],
+        "videoGeo": [
+          "ALL"
+        ],
+        "videoType": "Analysis",
+        "url": "https://www.cricbuzz.com/cricket-videos/185725/csk-vs-lsg-rcb-vs-mi-ipl-2026",
+        "isLive": false,
+        "videoId": 185725,
+        "mappingId": "1190905600",
+        "videoUrl": "https://api.cricbuzz.com/m/videos/v1/vodVideoUrl/vimeo/1190905600",
+        "adTag": "vast-Cricbuzz-Live",
+        "categories": [
+          {
+            "ID": 16,
+            "name": "Cricbuzz Live",
+            "imageID": 244345
+          }
+        ],
+        "language": "English",
+        "planId": 0,
+        "tags": [],
+        "isPremiumFree": false
+      },
+      {
+        "commId": 153752,
+        "matchId": 152097,
+        "inningsId": 0,
+        "infraType": "Content Promotion - Video",
+        "headline": "CSK vs LSG, RCB vs MI | IPL 2026 (Hindi)",
+        "imageId": 964202,
+        "itemId": "185726",
+        "timestamp": 1778420217924,
+        "parsedContent": [],
+        "videoGeo": [
+          "ALL"
+        ],
+        "videoType": "Analysis",
+        "url": "https://www.cricbuzz.com/cricket-videos/185726/csk-vs-lsg-rcb-vs-mi-ipl-2026-hindi",
+        "isLive": false,
+        "videoId": 185726,
+        "mappingId": "1190905534",
+        "videoUrl": "https://api.cricbuzz.com/m/videos/v1/vodVideoUrl/vimeo/1190905534",
+        "adTag": "vast-Cricbuzz-Live-Hindi",
+        "categories": [
+          {
+            "ID": 23,
+            "name": "Cricbuzz Live Hindi",
+            "imageID": 244346
+          }
+        ],
+        "language": "Hindi",
+        "planId": 0,
+        "tags": [],
+        "isPremiumFree": false
+      },
+      {
+        "commId": 153545,
+        "matchId": 152097,
+        "inningsId": 0,
+        "infraType": "Content Promotion - Video",
+        "headline": "IPL - RCB vs MI, 54th Match",
+        "imageId": 962518,
+        "itemId": "185385",
+        "timestamp": 1778338048793,
+        "parsedContent": [],
+        "videoGeo": [
+          "ALL"
+        ],
+        "videoType": "Match Forecast",
+        "url": "<iframe class=\"embed-responsive-item\" src=\"https://www.cricbuzz.com/cricket-videos-embed/185385/ipl-rcb-vs-mi-54th-match\" framespacing=\"0\" allowtransparency=\"true\" marginwidth=\"0\" marginheight=\"0\" vspace=\"0\" hspace=\"0\" scrolling=\"no\" frameborder=\"no\" width=\"100%\" height=\"330px\"></iframe>",
+        "isLive": false,
+        "videoId": 185385,
+        "mappingId": "1_rryaz9m2",
+        "videoUrl": "https://cdnapisec.kaltura.com/p/1999781/sp/199978100/playManifest/entryId/1_rryaz9m2/format/applehttp/protocol/https/a.m3u8?ks=djJ8MTk5OTc4MXyWuuLK86XOWOz-ULeU2A8nejslHeLkfEA3BB0ldGWm5d2aS2YRjCnn-vsK7ZiSNU3Tv30srn12omEU-XiCY3_PP-bDoGn3SJs70aCDo-LrFJing4ms0WTqn_kNXUbnun4=",
+        "adTag": "vast-Match-Forecast",
+        "categories": [
+          {
+            "ID": 53,
+            "name": "Match Forecast",
+            "imageID": 803739
+          }
+        ],
+        "language": "English",
+        "planId": 0,
+        "tags": [
+          {
+            "itemType": "series",
+            "itemId": 9241,
+            "itemName": "Indian Premier League 2026"
+          },
+          {
+            "itemType": "match",
+            "itemId": 152097,
+            "itemName": "Indian Premier League 2026, 54th Match"
+          },
+          {
+            "itemType": "team",
+            "itemId": 59,
+            "itemName": "Royal Challengers Bengaluru"
+          },
+          {
+            "itemType": "team",
+            "itemId": 62,
+            "itemName": "Mumbai Indians"
+          },
+          {
+            "itemType": "player",
+            "itemId": 1413,
+            "itemName": "Virat Kohli"
+          },
+          {
+            "itemType": "player",
+            "itemId": 10636,
+            "itemName": "Rajat Patidar"
+          },
+          {
+            "itemType": "player",
+            "itemId": 13088,
+            "itemName": "Devdutt Padikkal"
+          },
+          {
+            "itemType": "player",
+            "itemId": 1726,
+            "itemName": "Bhuvneshwar Kumar"
+          },
+          {
+            "itemType": "player",
+            "itemId": 576,
+            "itemName": "Rohit Sharma"
+          },
+          {
+            "itemType": "player",
+            "itemId": 36139,
+            "itemName": "Naman Dhir"
+          }
+        ],
+        "isPremiumFree": false
+      },
+      {
+        "commId": 153542,
+        "matchId": 152097,
+        "inningsId": 0,
+        "infraType": "Content Promotion - Video",
+        "headline": "Preview: Bengaluru v Mumbai (Hindi)",
+        "imageId": 962184,
+        "itemId": "185306",
+        "timestamp": 1778338048783,
+        "parsedContent": [],
+        "videoGeo": [
+          "ALL"
+        ],
+        "videoType": "Analysis",
+        "url": "http://www.cricbuzz.com/cricket-videos/185306/preview-bengaluru-v-mumbai-hindi",
+        "isLive": false,
+        "videoId": 185306,
+        "mappingId": "1_8y1t1nyt",
+        "videoUrl": "https://cdnapisec.kaltura.com/p/1999781/sp/199978100/playManifest/entryId/1_8y1t1nyt/format/applehttp/protocol/https/a.m3u8?ks=djJ8MTk5OTc4MXyWuuLK86XOWOz-ULeU2A8nejslHeLkfEA3BB0ldGWm5d2aS2YRjCnn-vsK7ZiSNU3Tv30srn12omEU-XiCY3_PP-bDoGn3SJs70aCDo-LrFJing4ms0WTqn_kNXUbnun4=",
+        "adTag": "vast-Cricbuzz-Live-Hindi",
+        "categories": [
+          {
+            "ID": 23,
+            "name": "Cricbuzz Live Hindi",
+            "imageID": 244346
+          },
+          {
+            "ID": 32,
+            "name": "Cricbuzz Live - Talking Points (Hindi)",
+            "imageID": 244563
+          }
+        ],
+        "language": "Hindi",
+        "planId": 0,
+        "tags": [
+          {
+            "itemType": "series",
+            "itemId": 9241,
+            "itemName": "Indian Premier League 2026"
+          },
+          {
+            "itemType": "match",
+            "itemId": 152097,
+            "itemName": "Indian Premier League 2026, 54th Match"
+          },
+          {
+            "itemType": "team",
+            "itemId": 59,
+            "itemName": "Royal Challengers Bengaluru"
+          },
+          {
+            "itemType": "team",
+            "itemId": 62,
+            "itemName": "Mumbai Indians"
+          }
+        ],
+        "isPremiumFree": false
+      },
+      {
+        "commId": 153697,
+        "matchId": 152097,
+        "inningsId": 0,
+        "infraType": "Content Promotion - Video",
+        "headline": "Preview: Bengaluru vs Mumbai",
+        "imageId": 962540,
+        "itemId": "185380",
+        "timestamp": 1778338048778,
+        "parsedContent": [],
+        "videoGeo": [
+          "ALL"
+        ],
+        "videoType": "Analysis",
+        "url": "https://www.cricbuzz.com/cricket-videos/185380/preview-bengaluru-vs-mumbai",
+        "isLive": false,
+        "videoId": 185380,
+        "mappingId": "1_s22nesg5",
+        "videoUrl": "https://cdnapisec.kaltura.com/p/1999781/sp/199978100/playManifest/entryId/1_s22nesg5/format/applehttp/protocol/https/a.m3u8?ks=djJ8MTk5OTc4MXyWuuLK86XOWOz-ULeU2A8nejslHeLkfEA3BB0ldGWm5d2aS2YRjCnn-vsK7ZiSNU3Tv30srn12omEU-XiCY3_PP-bDoGn3SJs70aCDo-LrFJing4ms0WTqn_kNXUbnun4=",
+        "adTag": "vast-Cricbuzz-Live",
+        "categories": [
+          {
+            "ID": 16,
+            "name": "Cricbuzz Live",
+            "imageID": 244345
+          },
+          {
+            "ID": 27,
+            "name": "Cricbuzz LIVE - Talking Points",
+            "imageID": 244347
+          }
+        ],
+        "language": "English",
+        "planId": 0,
+        "tags": [
+          {
+            "itemType": "series",
+            "itemId": 9241,
+            "itemName": "Indian Premier League 2026"
+          },
+          {
+            "itemType": "match",
+            "itemId": 152097,
+            "itemName": "Indian Premier League 2026, 54th Match"
+          },
+          {
+            "itemType": "team",
+            "itemId": 59,
+            "itemName": "Royal Challengers Bengaluru"
+          },
+          {
+            "itemType": "team",
+            "itemId": 62,
+            "itemName": "Mumbai Indians"
+          }
+        ],
+        "isPremiumFree": false
+      }
+    ]
+  },
+  "matchDetails": {
+    "matchHeader": {
+      "matchId": 152097,
+      "matchDescription": "54th Match",
+      "matchFormat": "T20",
+      "matchType": "league",
+      "complete": true,
+      "domestic": false,
+      "matchStartTimestamp": 1778421600000,
+      "matchCompleteTimestamp": 1778436761727,
+      "dayNight": false,
+      "year": 2026,
+      "state": "Complete",
+      "status": "Royal Challengers Bengaluru opt to bowl",
+      "tossResults": {
+        "tossWinnerId": 59,
+        "tossWinnerName": "Royal Challengers Bengaluru",
+        "decision": "Bowling"
+      },
+      "result": {
+        "resultType": "win",
+        "winningTeam": "Royal Challengers Bengaluru",
+        "winningteamId": 59,
+        "winningMargin": 2,
+        "winByRuns": false,
+        "winByInnings": false
+      },
+      "revisedTarget": {},
+      "playersOfTheMatch": [
+        {
+          "id": 1726,
+          "name": "Bhuvneshwar Kumar",
+          "fullName": "Bhuvneshwar Kumar",
+          "nickName": "Bhuvneshwar Kumar",
+          "captain": false,
+          "keeper": false,
+          "substitute": false,
+          "teamId": 0,
+          "teamName": "India",
+          "faceImageId": 244967
+        }
+      ],
+      "playersOfTheSeries": [],
+      "matchTeamInfo": [
+        {
+          "battingTeamId": 62,
+          "battingTeamShortName": "MI",
+          "bowlingTeamId": 59,
+          "bowlingTeamShortName": "RCB"
+        },
+        {
+          "battingTeamId": 59,
+          "battingTeamShortName": "RCB",
+          "bowlingTeamId": 62,
+          "bowlingTeamShortName": "MI"
+        }
+      ],
+      "isMatchNotCovered": false,
+      "team1": {
+        "id": 59,
+        "name": "Royal Challengers Bengaluru",
+        "playerDetails": [],
+        "shortName": "RCB"
+      },
+      "team2": {
+        "id": 62,
+        "name": "Mumbai Indians",
+        "playerDetails": [],
+        "shortName": "MI"
+      },
+      "seriesDesc": "Indian Premier League 2026",
+      "venue": {
+        "id": 335,
+        "name": "Shaheed Veer Narayan Singh International Stadium",
+        "city": "Raipur",
+        "country": "India",
+        "timezone": "+05:30",
+        "latitude": "21.203523",
+        "longitude": "81.823929"
+      },
+      "seriesId": 9241,
+      "seriesName": "Indian Premier League 2026",
+      "alertType": "auto",
+      "livestreamEnabled": false
+    },
+    "miniscore": {
+      "inningsId": 2,
+      "batsmanStriker": {
+        "batBalls": 2,
+        "batDots": 0,
+        "batFours": 0,
+        "batId": 1726,
+        "batName": "Bhuvneshwar Kumar",
+        "batMins": 5,
+        "batRuns": 7,
+        "batSixes": 1,
+        "batStrikeRate": 350
+      },
+      "batsmanNonStriker": {
+        "batBalls": 2,
+        "batDots": 0,
+        "batFours": 0,
+        "batId": 14274,
+        "batName": "Rasikh Salam Dar",
+        "batMins": 19,
+        "batRuns": 3,
+        "batSixes": 0,
+        "batStrikeRate": 150
+      },
+      "batTeam": {
+        "teamId": 59,
+        "teamScore": 167,
+        "teamWkts": 8
+      },
+      "bowlerStriker": {
+        "bowlId": 9311,
+        "bowlName": "Jasprit Bumrah",
+        "bowlMaidens": 0,
+        "bowlNoballs": 0,
+        "bowlOvs": 4,
+        "bowlRuns": 20,
+        "bowlWides": 2,
+        "bowlWkts": 0,
+        "bowlEcon": 5
+      },
+      "bowlerNonStriker": {
+        "bowlId": 22601,
+        "bowlName": "Raj Bawa",
+        "bowlMaidens": 0,
+        "bowlNoballs": 1,
+        "bowlOvs": 3,
+        "bowlRuns": 39,
+        "bowlWides": 6,
+        "bowlWkts": 1,
+        "bowlEcon": 13
+      },
+      "overs": 19.6,
+      "recentOvsStats": "... 0 0 0 L1  | Wd N 1 Wd2 0 W Wd 6 1 2",
+      "partnerShip": {
+        "balls": 3,
+        "runs": 10
+      },
+      "currentRunRate": 8.35,
+      "requiredRunRate": 0,
+      "lastWicket": "Romario Shepherd  c Tilak Varma b Raj Bawa 4(11)  - 157/8 in 19.3 ov.",
+      "matchScoreDetails": {
+        "matchId": 152097,
+        "inningsScoreList": [
+          {
+            "inningsId": 2,
+            "batTeamId": 59,
+            "batTeamName": "RCB",
+            "score": 167,
+            "wickets": 8,
+            "overs": 19.6,
+            "isDeclared": false,
+            "isFollowOn": false,
+            "ballNbr": 120
+          },
+          {
+            "inningsId": 1,
+            "batTeamId": 62,
+            "batTeamName": "MI",
+            "score": 166,
+            "wickets": 7,
+            "overs": 19.6,
+            "isDeclared": false,
+            "isFollowOn": false,
+            "ballNbr": 120
+          }
+        ],
+        "tossResults": {
+          "tossWinnerId": 59,
+          "tossWinnerName": "Royal Challengers Bengaluru",
+          "decision": "Bowling"
+        },
+        "matchTeamInfo": [
+          {
+            "battingTeamId": 62,
+            "battingTeamShortName": "MI",
+            "bowlingTeamId": 59,
+            "bowlingTeamShortName": "RCB"
+          },
+          {
+            "battingTeamId": 59,
+            "battingTeamShortName": "RCB",
+            "bowlingTeamId": 62,
+            "bowlingTeamShortName": "MI"
+          }
+        ],
+        "isMatchNotCovered": false,
+        "matchFormat": "T20",
+        "state": "Complete",
+        "customStatus": "Royal Challengers Bengaluru won by 2 wkts",
+        "highlightedTeamId": 59
+      },
+      "latestPerformance": [
+        {
+          "runs": 49,
+          "wkts": 4,
+          "label": "Last 5 overs"
+        },
+        {
+          "runs": 30,
+          "wkts": 2,
+          "label": "Last 3 overs"
+        }
+      ],
+      "ppData": {
+        "pp_1": {
+          "ppId": 22,
+          "ppOversFrom": 0.1,
+          "ppOversTo": 6,
+          "ppType": "Mandatory",
+          "runsScored": 47
+        }
+      },
+      "matchUdrs": {
+        "matchId": 152097,
+        "inningsId": 2,
+        "timestamp": "2026-05-10T17:56:37.497Z",
+        "team1Id": 59,
+        "team1Remaining": 2,
+        "team1Successful": 0,
+        "team1Unsuccessful": 0,
+        "team2Id": 62,
+        "team2Remaining": 0,
+        "team2Successful": 0,
+        "team2Unsuccessful": 2
+      },
+      "overSummaryList": [],
+      "status": "Royal Challengers Bengaluru won by 2 wkts",
+      "lastWicketScore": 4,
+      "remRunsToWin": 0,
+      "responseLastUpdated": 1778497208,
+      "event": "HIGHSCORING_OVER,OVER-BREAK",
+      "timestamp": 1778436653126
+    }
+  }
+}

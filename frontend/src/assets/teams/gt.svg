@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="gtTitle gtDesc">
+  <title id="gtTitle">Gujarat Titans</title>
+  <desc id="gtDesc">Gujarat Titans team badge.</desc>
+  <defs>
+    <linearGradient id="gtGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#404040" />
+      <stop offset="100%" stop-color="#111111" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="20" fill="url(#gtGrad)" />
+  <circle cx="64" cy="64" r="42" fill="none" stroke="#ffffff" stroke-opacity="0.26" stroke-width="3" />
+  <text x="64" y="72" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="900" text-anchor="middle">GT</text>
+</svg>

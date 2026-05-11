@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="cskTitle cskDesc">
+  <title id="cskTitle">Chennai Super Kings</title>
+  <desc id="cskDesc">Chennai Super Kings team badge.</desc>
+  <defs>
+    <linearGradient id="cskGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffd23c" />
+      <stop offset="100%" stop-color="#e59c00" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="20" fill="url(#cskGrad)" />
+  <circle cx="64" cy="64" r="42" fill="none" stroke="#111111" stroke-opacity="0.22" stroke-width="3" />
+  <text x="64" y="72" fill="#111111" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="900" text-anchor="middle">CSK</text>
+</svg>

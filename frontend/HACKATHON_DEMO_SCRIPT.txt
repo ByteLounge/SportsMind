@@ -1,0 +1,61 @@
+# SportsMind AI: The Multi-Sport Generative Broadcast Engine
+## Hackathon Demo Presentation Script
+
+### 1. The Introduction (The "Hook")
+"Welcome to the future of sports broadcasting. Traditional cricket scorecards are static and cold. You see the numbers, but you don't feel the heat of the game. We built **SportsMind AI** to solve this. SportsMind AI isn't just a tracker; it's a living, breathing AI commentator that brings the stadium atmosphere directly to your screen."
+
+---
+
+### 2. The Problem Statement
+"Most fans today follow matches on their phones while multitasking. They miss the tactical nuances and the emotional shifts of the game because current apps only show 'what' happened, not 'why' it matters or 'what' might happen next. There is a gap between raw data and the human experience of cricket."
+
+---
+
+### 3. The Solution: SportsMind AI
+"SportsMind AI fills this gap by using Generative AI and Neural Voice synthesis to transform raw match data into a dramatic, multi-sensory broadcast experience. It understands the pressure of the 'Death Overs,' the psychology of a chase, and the momentum shifts that define IPL cricket."
+
+---
+
+### 4. Feature Walkthrough (Demonstration)
+
+#### A. AI Commentary Feed
+*   **Action:** Click 'Bowl Next Ball' and point to the colored cards.
+*   **Script:** "Every single ball is analyzed by Google Gemini. Our AI doesn't just say 'It's a six.' It describes the shot, the batsman's footwork, and the bowler's frustration. Notice the color coding: Gold for a massive six, Red for a game-changing wicket. It’s visual storytelling at its best."
+
+#### B. Predictive Intelligence (Pre-Ball Analysis)
+*   **Action:** Point to the pulsing 'AI Prediction' banner before the ball results appear.
+*   **Script:** "Before the bowler even reaches their jump, SportsMind AI’s predictive engine analyzes the situation. It generates a pre-ball hypothesis, predicting the batsman's next move. This adds a layer of 'Broadcaster-style' tactical depth that usually requires a room full of analysts."
+
+#### C. Live Analytics & Win Probability
+*   **Action:** Hover over the Win Probability chart and the Wagon Wheel.
+*   **Script:** "Data is the backbone of cricket. We’ve integrated a real-time Win Probability chart that reacts instantly to every run and wicket. To your right, you see a dynamic Wagon Wheel, visualizing shot directions in real-time. This helps fans understand where the runs are coming from and where the fielding gaps are."
+
+#### D. Neural Audio System (HD Voice)
+*   **Action:** Ensure HD mode is on and play a ball with audio.
+*   **Script:** "To make it truly immersive, we’ve integrated ElevenLabs Neural Voice. The AI commentary is narrated in high-fidelity, professional audio. If you’re busy, you can just listen to the match like a radio broadcast, narrated by a voice that sounds human and expressive."
+
+---
+
+### 5. Technical Architecture (The "How It Works")
+"SportsMind AI is built on a high-performance stack for sub-second latency:
+- **React 18 & Vite** for a lightning-fast UI.
+- **Google Gemini 1.5 Flash** for context-aware, dramatic narration.
+- **ElevenLabs API** for HD voice synthesis.
+- **Vite Proxy Layer** ensures our API connections are robust and secure, even in complex network environments."
+
+---
+
+### 6. The "Why" (Strategic Implementation)
+"We implemented these features to solve the problem of **Fan Engagement**. By combining analytics with emotion, we make the match accessible to everyone—from the casual fan who wants drama to the expert analyst who wants data. We chose Gemini Flash for its speed and ElevenLabs for its realism to ensure the experience feels 'Live'."
+
+---
+
+### 7. Conclusion
+"SportsMind AI is more than a project; it's a proof of concept for how AI can humanize sports data. It's the ultimate copilot for the modern cricket fan. Thank you!"
+
+---
+
+### PRO-TIP FOR RECORDING:
+1. **Interactive Elements:** Use the 'Replay' button on old cards to show the on-demand audio capability.
+2. **Switch Modes:** Toggle between 'Casual' and 'Expert' modes to show how the AI's personality changes.
+3. **Finish with a Bang:** Try to record a sequence where a team wins to show the confetti animation!

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="miTitle miDesc">
+  <title id="miTitle">Mumbai Indians</title>
+  <desc id="miDesc">Mumbai Indians team badge.</desc>
+  <defs>
+    <linearGradient id="miGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0063d1" />
+      <stop offset="100%" stop-color="#002a59" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="20" fill="url(#miGrad)" />
+  <circle cx="64" cy="64" r="42" fill="none" stroke="#ffffff" stroke-opacity="0.24" stroke-width="3" />
+  <text x="64" y="72" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="800" text-anchor="middle">MI</text>
+</svg>

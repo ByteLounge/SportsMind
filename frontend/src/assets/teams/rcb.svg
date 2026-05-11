@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="rcbTitle rcbDesc">
+  <title id="rcbTitle">Royal Challengers Bengaluru</title>
+  <desc id="rcbDesc">Royal Challengers Bengaluru team badge.</desc>
+  <defs>
+    <linearGradient id="rcbGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f14b53" />
+      <stop offset="100%" stop-color="#7a0d16" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="20" fill="url(#rcbGrad)" />
+  <circle cx="64" cy="64" r="42" fill="none" stroke="#ffffff" stroke-opacity="0.26" stroke-width="3" />
+  <text x="64" y="72" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="900" text-anchor="middle">RCB</text>
+</svg>
