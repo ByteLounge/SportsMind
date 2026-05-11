@@ -1,5 +1,5 @@
 {
-  "name": "sportsmind-monorepo",
+  "name": "sportsmind",
   "version": "1.0.0",
   "description": "Monorepo for SportsMind AI and CricketScrap",
   "private": true,

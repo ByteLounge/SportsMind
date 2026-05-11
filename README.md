@@ -1,4 +1,4 @@
-# SportsMind AI Monorepo
+# SportsMind
 
 This repository combines the SportsMind AI frontend and the CricketScrap backend into a single unified project.
 
